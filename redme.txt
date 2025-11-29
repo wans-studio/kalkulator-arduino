@@ -1,3 +1,0 @@
-🔌 Sambungan:
-Buzzer (+) → Pin 8
-Buzzer (–) → GND
